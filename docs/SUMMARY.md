@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [About the project](README.md)
 * [Documentation](Documentation.md)
 
 ## GitHub
