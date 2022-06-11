@@ -40,8 +40,4 @@ The materials that were used to create these files are in the public domain and 
 
 frederine.pradier@etu-unige.ch
 
-## PictoCatalogs.github.io
-
-## Corpus
-
 ## Documentation
