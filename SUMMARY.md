@@ -7,4 +7,4 @@
 
 ## Contacts
 
-frederine.pradier@etu-unige.ch
+[frederine.pradier@etu-unige.ch](frederine.pradier@etu-unige.ch)
