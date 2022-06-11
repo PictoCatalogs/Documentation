@@ -4,7 +4,9 @@
 * [Documentation](Documentation.md)
 
 ## GitHub
+
 * [PictoCatalogs](https://github.com/PictoCatalogs)
 
 ## Contacts
-* [Frederine Pradier](frederine.pradier@etu-unige.ch)
+
+* [Frederine Pradier](contacts/frederine-pradier.md)
