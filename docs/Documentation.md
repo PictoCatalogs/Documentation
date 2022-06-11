@@ -8,7 +8,7 @@ This repository is under construction. For the moment, it only contains catalogs
 
 ### Workflow
 
-![](<.gitbook/assets/workflow.png>)
+![](<.gitbook/assets/workflow (2).png>)
 
 ### Credits
 
