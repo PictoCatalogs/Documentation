@@ -1,7 +1,4 @@
-# Documentation for PictoCatalogs research project
-___
-
-## Project
+## Documentation for PictoCatalogs research project
 
 This project aims to encode and study Pictorialist Photography Exhibition Catalogs (1891-1914) from the Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library), available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914). 
 

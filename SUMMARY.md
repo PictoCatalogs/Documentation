@@ -2,7 +2,9 @@
 
 * [Initial page](README.md)
 * [Documentation](Documentation.md)
-* [GitHub](https://github.com/PictoCatalogs)
+
+##GitHub
+* [PictoCatalogs](https://github.com/PictoCatalogs)
 
 
 ## Contacts
