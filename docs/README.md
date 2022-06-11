@@ -1,12 +1,12 @@
 ---
-description: Pictorialist Photography Exhibition Catalogs, 1891-1914
+description: Pictorialist Photography Exhibition Catalogs (1891-1914)
 ---
 
 # About the project
 
 ### Project
 
-This research project is developed by **Frédérine Pradier, University of Geneva**. It aims to encode and study photographic amateurism at the turn of the 20th century through catalogues of international pictorialist exhibitions and by means of quantitative and computational methods. Our corpus is composed of **pictorialist photography exhibition catalogs (1891-1914)** from the **Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library)**, available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
+This research project is developed by **Frédérine Pradier (University of Geneva)**. It aims to study photographic amateurism at the turn of the 20th century through catalogues of international pictorialist exhibitions and by means of quantitative and computational methods. Our corpus is composed of **pictorialist photography exhibition catalogs (1891-1914)** from the **Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library)**, available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
 
 ### Abstract
 
@@ -18,15 +18,7 @@ The methodology used for this study consists, on the one hand, in the extraction
 
 ### Credits
 
-This repository is developed by Frédérine Pradier, University of Geneva. This work is mainly based on the datasets and workflows provided by Juliette Janès and Caroline Corbières for the Artl@s project.
-
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, extractionCatalogs: Python data extractor for exhibition catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
-
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, TEICatalogs: Corpus of encoded 19th and 20th catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
-
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, HTRCatalogs: Dataset for Historical Catalogs Segmentation and HTR, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesSegmentationOCR/
-
-Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, Worklow to encode exhibition catalogues, 2020, https://github.com/carolinecorbieres/ArtlasCatalogues.
+This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès and Caroline Corbières for the Artl@s project.
 
 ### Licence
 
