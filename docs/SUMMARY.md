@@ -5,7 +5,9 @@
 
 ## GitHub
 
-* [PictoCatalogs](https://github.com/PictoCatalogs)
+* [PictoCatalogs Organization](https://github.com/PictoCatalogs)
+* [Corpus](https://github.com/PictoCatalogs/Corpus)
+* [HTR and Layout Analysis](https://github.com/PictoCatalogs/TrainingDataOCR)
 
 ## Contacts
 
