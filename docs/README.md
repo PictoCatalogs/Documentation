@@ -3,34 +3,15 @@ ___
 
 ## Project
 
-This project aims to encode and study Pictorialist Photography Exhibition Catalogs from the Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library), available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914). 
+This research project is developed by Frédérine Pradier, University of Geneva. It aims to encode and study photographic amateurism at the turn of the 20th century through catalogues of international pictorialist exhibitions and by means of quantitative and computational methods. 
+Our corpus is composed of pictorialist photography exhibition catalogs from the Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library), available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914). 
 
-This repository is under construction. For the moment, it only contains catalogs of the Photo-Club de Paris exhibitions. 
+## Context
 
-## Workflow 
-
-![](<.gitbook/assets/workflow.png>)
-
-## Repository
-
-```
-├── CSV
-│     ├─ PCP_1894.csv
-│     ├─ PCP_1896.csv
-│     ├─ PCP_1898.csv
-│     └─ PCP_1906.csv
-│
-├── TEI
-│     ├─ PCP_1894.xml
-│     ├─ PCP_1896.xml
-│     ├─ PCP_1898.xml
-│     └─ PCP_1906.xml
-│
-└─ README.md
-```
+The rise of photographic amateurism was marked by technical and industrial progress, which allowed for the widespread distribution of new, simplified products and specialised publications. Pictorialism developed within an associative network, the photographic societies, a privileged place for the circulation of ideas and images, which became one of the fundamental social structures of the photographic world at the end of the 19th century. In the clubs and societies, many amateurs claimed to be artistic photographers in order to distinguish themselves. The Pictorialists thus positioned themselves as enlightened amateurs, in opposition to the popularised private practice of photography but also to the commercial practice of professional photographers.
 
 ## Credits
-This repository is developed by Frédérine Pradier. This work is mainly based on the datasets and workflows provided by Juliette Janès and Caroline Corbières for the Artl@s project. 
+This repository is developed by Frédérine Pradier, University of Geneva. This work is mainly based on the datasets and workflows provided by Juliette Janès and Caroline Corbières for the Artl@s project. 
 
 Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, extractionCatalogs: Python data extractor for exhibition catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
 
