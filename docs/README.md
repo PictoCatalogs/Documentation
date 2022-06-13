@@ -6,7 +6,7 @@ description: Pictorialist Photography Exhibition Catalogs (1891-1914)
 
 ### Project
 
-This research project is developed by **Frédérine Pradier (University of Geneva)**. It aims to study photographic amateurism at the turn of the 20th century through catalogues of international pictorialist exhibitions and by means of quantitative and computational methods. Our corpus is composed of **pictorialist photography exhibition catalogs (1891-1914)** from the **Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library)**, available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
+This research project is carried out by **Frédérine Pradier (University of Geneva)**. It aims to study photographic amateurism at the turn of the 20th century through catalogues of international pictorialist exhibitions and by means of quantitative and computational methods. Our corpus is composed of **pictorialist photography exhibition catalogs (1891-1914)** from the **Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library)**, available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
 
 ### Abstract
 
