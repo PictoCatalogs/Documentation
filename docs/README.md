@@ -20,6 +20,14 @@ The methodology used for this study consists, on the one hand, in the extraction
 
 This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès and Caroline Corbières for the Artl@s project.
 
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, extractionCatalogs: Python data extractor for exhibition catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
+
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, TEICatalogs: Corpus of encoded 19th and 20th catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
+
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, HTRCatalogs: Dataset for Historical Catalogs Segmentation and HTR, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesSegmentationOCR/
+
+Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, Worklow to encode exhibition catalogues, 2020, https://github.com/carolinecorbieres/ArtlasCatalogues.
+
 ### Licence
 
 XML-TEI files and CSV files are made available under a [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/) licence.
