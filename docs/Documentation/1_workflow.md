@@ -16,4 +16,6 @@ Un programme en Python developpé par Juliette Janès et grandement amélioré p
 
 Les données contenues dans le fichier CSV sont ensuite nettoyés et enrichis grâce à [OpenRefine](https://openrefine.org), afin de répartir les données dans les colonnes correspondantes mais aussi de géoréférencer l'ensemble des données géographiques disponibles. A partir d'un CSV enrichi il est alors possible de réaliser des visualisations de différentes natures (cartographies, graphiques, etc.) et ainsi de procéder à l'analyse les données issues des catalogues.&#x20;
 
+Bien que nous renvoyons systématiquement dans cette documentation aux différents travaux qui composent notre chaîne de traitement, les différents fichiers nécessaires entrant en jeu dans cette dernière ont été également centralisé dans un dépot GitHub dédié (_**lien à ajouter**_) afin de faciliter leur récupération par toute personne susceptible de les réemployer. &#x20;
+
 Les pages suivantes détailleront davantage chaque étape de cette chaîne de traitement.&#x20;
