@@ -1,12 +1,6 @@
 # Workflow
 
-### Documentation for PictoCatalogs research project
-
-Ce projet de recherche vise à encoder et étudier les catalogues d'exposition de photographies pictorialistes (1891-1914) issus de la collection d'Alfred Stielglitz et conservés par la bibliothèque du Metropolitan Museum of Art (Joyce F. Menschel Photography Library), [disponibles ici](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
-
-### Workflow
-
-![](<../.gitbook/assets/workflow (1) (1).png>)
+![](<../.gitbook/assets/Untitled Diagram.drawio-2.png>)
 
 Cette chaîne de traitement a été développée dans le cadre du projet [Artl@s](https://artlas.huma-num.fr/fr/), en particulier pour [BasArt](https://artlas.huma-num.fr/map/#/), sa base numérique et géoréférencée de catalogues d'expositions. Ce workflow est le fruit du travail de [Caroline Corbières](https://github.com/carolinecorbieres/ArtlasCatalogues) et de [Juliette Janès](https://github.com/Juliettejns/Memoire\_TNAH), qui ont apportés des améliorations successives dans le but d'extraire les données de catalogues d'exposition de façon semi-automatisée ([plus d'informations ici](https://hal.archives-ouvertes.fr/hal-03331838/document)).&#x20;
 
