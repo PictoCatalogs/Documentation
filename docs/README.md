@@ -22,6 +22,10 @@ Juliette Janès, *Du catalogue papier au numérique : Une chaîne de traitement 
 
 Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, *Worklow to encode exhibition catalogues*, 2020, [https://github.com/carolinecorbieres/ArtlasCatalogues](https://github.com/carolinecorbieres/ArtlasCatalogues).
 
+### Thanks to
+
+This project greatly benefited from the active help of Simon Gabay, Béatrice Joyeux-Prunel and Esteban Sánchez Oeconomo. 
+
 ### Licence
 
 XML-TEI files and CSV files are made available under a [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/) licence.
