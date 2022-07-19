@@ -1,7 +1,3 @@
----
-description: Pictorialist Photography Exhibition Catalogs (1891-1914)
----
-
 # About the project
 
 ### Project
@@ -18,15 +14,13 @@ The methodology used for this study consists, on the one hand, in the extraction
 
 ### Credits
 
-This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès and Caroline Corbières for the Artl@s project.
+This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès, Esteban Sánchez Oeconomo and Caroline Corbières for the [Artl@s project](https://artlas.huma-num.fr).
 
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, extractionCatalogs: Python data extractor for exhibition catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
+Esteban Sánchez Oeconomo, Juliette Janès, Simon Gabay, Béatrice Joyeux-Prunel, *extractionCatalogs: Python data extractor for exhibition catalogs*, 2022, Paris: ENS Paris, IMAGO / Geneva: Université de Genève, [https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs) 
 
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, TEICatalogs: Corpus of encoded 19th and 20th catalogs, 2021, Paris: ENS Paris https://github.com/Juliettejns/TEIcatalogs/
+Juliette Janès, *Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés*, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Béatrice Joyeux-Prunel, École nationale des chartes, 2021, [https://github.com/Juliettejns/Memoire_TNAH](https://github.com/Juliettejns/Memoire_TNAH).
 
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, HTRCatalogs: Dataset for Historical Catalogs Segmentation and HTR, 2021, Paris: ENS Paris https://github.com/Juliettejns/cataloguesSegmentationOCR/
-
-Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, Worklow to encode exhibition catalogues, 2020, https://github.com/carolinecorbieres/ArtlasCatalogues.
+Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, *Worklow to encode exhibition catalogues*, 2020, [https://github.com/carolinecorbieres/ArtlasCatalogues](https://github.com/carolinecorbieres/ArtlasCatalogues).
 
 ### Licence
 
