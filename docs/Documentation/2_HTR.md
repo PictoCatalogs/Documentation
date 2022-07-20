@@ -14,7 +14,7 @@ La segmentation est, avec la transcription, essentielle dans la chaîne de trait
 
 ### SegmOnto, vocabulaire contrôlé
 
-Dans le cadre de la segmentation d'un document, il est important de définir et respecter un vocabulaire qui permettra d'annoter et décrire chaque zone d'une page selon sa fonction. Nous avons adopté le vocabulaire contrôlé [SegmOnto](https://segmonto.github.io) afin de favoriser l'interopérabilité des données obtenues, notamment dans la perspective d'une mutualisation de la vérité de terrain et de l'entraînement de nouveaux modèles.
+Dans le cadre de la segmentation d'un document, il est important de définir et respecter un vocabulaire qui permettra d'annoter et décrire chaque zone d'une page selon sa fonction. Nous avons adopté le vocabulaire contrôlé [SegmOnto](https://segmonto.github.io), conçu pour les documents historiques, afin de favoriser l'interopérabilité des données obtenues, notamment dans la perspective d'une mutualisation de la vérité de terrain et de l'entraînement de nouveaux modèles (pour en [savoir plus](https://hal.archives-ouvertes.fr/hal-03336528/document)).
 
 **Les zones utilisées pour l'annotation de notre corpus sont les suivantes :**&#x20;
 
