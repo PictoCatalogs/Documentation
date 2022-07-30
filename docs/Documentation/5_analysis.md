@@ -32,7 +32,23 @@ La cartographie ci-dessous présente les rues parisiennes ayant été géolocali
 
 ### Analyses iconographiques
 
-Différentes manières s'offrent là encore à nous pour étudier l'iconographie des photographies exposées. D'une part, à partir des données textuelles extraites des catalogues d'exposition du Photo-Club de Paris, nous avons pu constater la fréquence de certains mots dans les titres des oeuvres exposées se référant au genre et au sujet de l'image. Grâce à un notebook Python, nous avons réalisé une un nuage de mot pour les termes les plus récurrents dans les titres.&#x20;
+Différentes manières s'offrent là encore à nous pour étudier l'iconographie des photographies exposées.
+
+#### Nuage de mots
+
+D'une part, à partir des données textuelles extraites des catalogues d'exposition du Photo-Club de Paris, nous avons pu constater la fréquence de certains mots dans les titres des oeuvres exposées se référant au genre et au sujet de l'image. Grâce à un notebook Python, nous avons réalisé une un nuage de mot pour les termes les plus récurrents dans les titres.&#x20;
+
+![](../.gitbook/assets/wordcloud.png)
+
+#### Tagging
+
+Afin de tagger rapidement l'ensemble des catalogues illustrés du corpus international, nous avons utilisé une autre méthode, celle du _tagging_, au moyen du logiciel open source [Tropy](https://www.tropy.org). Grâce à son interface graphique et ses différents plugins, Tropy permet d'importer et modifier les métadonnées de chaque page numérisée ainsi que d'indexer rapidement l'ensemble du corpus de photographies reproduites et de publicités dans 76 catalogues d'exposition de 1892 à 1914. Le logiciel permet aussi de réaliser un export CSV des images avec les différents mots-clefs choisis. A partir de ce CSV nous avon pu réaliser des analyses quantitatives.&#x20;
+
+**Choix des mots cléfs (à ajouter)**
+
+Dans l'exemple ci-dessous, nous avons réaliser des pourcentages par année des photographies représentant un paysage :&#x20;
+
+![Capture d'écran du logiciel Excel](../.gitbook/assets/excel\_paysage.png)
 
 
 
