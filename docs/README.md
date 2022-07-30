@@ -1,38 +1,36 @@
-# About the project
+# About PictoCatalogs
 
-### Project
+### Projet
 
-This research project is carried out by **Frédérine Pradier (University of Geneva)**. It aims to study photographic amateurism at the turn of the 20th century through catalogues of international pictorialist exhibitions and by means of quantitative and computational methods. Our corpus is composed of **pictorialist photography exhibition catalogs (1891-1914)** from the **Metropolitan Museum of Art Library (Joyce F. Menschel Photography Library)**, available [here](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
+Ce projet de recherche est réalisé par Frédérine Pradier, sous la direction de Béatrice Joyeux-Prunel, dans le cadre du Certificat de spécialisation en humanités numériques de l'Université de Genève. Il s'attache à étudier l'amateurisme photographique au tournant du XXe siècle à travers des catalogues d'expositions pictorialistes internationales et au moyen de méthodes quantitatives et computationnelles. Notre corpus est composé de catalogues d'expositions pictorialistes (1891-1914) conservés par la bibliothèque du Metropolitan Museum of Art (Joyce F. Menschel Photography Library), [disponibles ici](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
 
 ### Abstract
 
-The rise of photographic amateurism was marked by technical and industrial progress, which allowed the widespread distribution of new, simplified products and specialised publications. Pictorialism developed within an associative network, the photographic societies, privileged places for the circulation of ideas and images, which became one of the fundamental social structures of the photographic world at the end of the 19th century. In the clubs and societies, many amateurs claimed to be artistic photographers in order to distinguish themselves. The Pictorialists thus positioned themselves as enlightened amateurs, in opposition to the popularised private practice of photography but also to the commercial practice of professional photographers.
+L’essor du phénomène amateur marque la fin du XIXe siècle du fait des progrès techniques et industriels du médium photographique, qui se traduisent par une large diffusion de nouveaux produits simplifiés et de publications spécialisées. Le pictorialisme s’élabore au sein du réseau associatif, dans les sociétés photographiques, lieu privilégié de circulation d’idées et d’images, qui deviennent à la fin du XIXe siècle une des structures sociales fondamentales du monde photographique. Dans les clubs et sociétés, de nombreux amateurs se réclament, par distinction, d’une photographie artistique. Les pictorialistes se positionnent ainsi en amateurs éclairés, en opposition à une pratique privée vulgarisée de la photographie mais aussi à la pratique commerciale des photographes professionnels.
 
-The serial analysis of the catalogues allows us to interrogate this moment in the history of photographic amateurism and its artistic expression in Pictorialist circles from a social, cultural and spatial point of view. By extracting, enriching and analysing data about the exhibitors, works and advertisements present in these exhibition catalogues, we wish to shed light on the boundary that seems to separate amateurism that is exhibited in the public sphere from that which is practised in the private sphere.
+L'analyse sérielle des catalogues nous permet d'interroger ce moment de l'histoire de l'amateurisme photographique et de son expression artistique dans les milieux pictorialistes d'un point de vue social, culturel et spatial. Par l'extraction, l'enrichissement et l'analyse des données relatives aux exposants, aux œuvres, aux images et aux publicités dans ces catalogues d'exposition, nous souhaitons faire la lumière sur les conditions et les structures sociales dans lesquelles les amateurs ont pu devenir des artistes.
 
-The methodology used for this study consists, on the one hand, in the extraction of textual data from the catalogues, thanks to the training of models allowing to segment and transcribe a part of the corpus. The [workflow](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs) developed for the exhibition catalogues as part of the [Artl@s](https://artlas.huma-num.fr/fr/) project then makes it possible to extract the data in a structured manner in order to proceed with their analysis. The other part of this study concerns the analysis of images, in particular reproductions of photographs and advertisements in these catalogues. The themes, style, motifs, circulation and chronology of these images are analysed. They are indexed and studied with quantitative methods but also with clustering methods, thanks to the [Explore](https://visualcontagions.unige.ch/explore/) platform of the [Visual Contagions](https://www.unige.ch/visualcontagions/) project.
+La méthodologie mise en œuvre pour étudier ces catalogues consiste d’une part dans l’acquisition des informations textuelles de ces derniers, au moyen d’outils permettant d’en segmenter et transcrire le contenu. La [chaîne de traitement](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs) développée pour les catalogues d'exposition dans le cadre du [projet Artl@s](https://artlas.huma-num.fr/fr/) permet ensuite d'extraire les données de manière structurée afin de procéder à leur analyse. L'autre partie de cette étude concerne l'analyse des images, en particulier les reproductions de photographies et les publicités présentes dans ces catalogues. Elles sont indexées au moyen d'une méthode de _tagging_ et étudiées avec des méthodes quantitatives.
 
 ### Credits
 
-This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès, Esteban Sánchez Oeconomo and Caroline Corbières for the [Artl@s project](https://artlas.huma-num.fr).
+Ce site est developppé par Frédérine Pradier (Université de Genève). Ce travail a grandement bénéficié des chaînes de traitement et des jeux de données réalisés par Juliette Janès, Esteban Sánchez Oeconomo et Caroline Corbières pour le projet [Artl@s](https://artlas.huma-num.fr).
 
-Esteban Sánchez Oeconomo, Juliette Janès, Simon Gabay, Béatrice Joyeux-Prunel, *extractionCatalogs: Python data extractor for exhibition catalogs*, 2022, Paris: ENS Paris, IMAGO / Geneva: Université de Genève, [https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs) 
+Esteban Sánchez Oeconomo, Juliette Janès, Simon Gabay, Béatrice Joyeux-Prunel, _extractionCatalogs: Python data extractor for exhibition catalogs_, 2022, Paris: ENS Paris, IMAGO / Geneva: Université de Genève, [https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs)
 
-Juliette Janès, *Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés*, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Béatrice Joyeux-Prunel, École nationale des chartes, 2021, [https://github.com/Juliettejns/Memoire_TNAH](https://github.com/Juliettejns/Memoire_TNAH).
+Juliette Janès, _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Béatrice Joyeux-Prunel, École nationale des chartes, 2021, [https://github.com/Juliettejns/Memoire\_TNAH](https://github.com/Juliettejns/Memoire\_TNAH).
 
-Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, *Worklow to encode exhibition catalogues*, 2020, [https://github.com/carolinecorbieres/ArtlasCatalogues](https://github.com/carolinecorbieres/ArtlasCatalogues).
+Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, _Worklow to encode exhibition catalogues_, 2020, [https://github.com/carolinecorbieres/ArtlasCatalogues](https://github.com/carolinecorbieres/ArtlasCatalogues).
 
 ### Thanks to
 
-This project greatly benefited from the active help of Simon Gabay, Béatrice Joyeux-Prunel and Esteban Sánchez Oeconomo. 
+Nous remercions chaleureusement Simon Gabay, Béatrice Joyeux-Prunel et Esteban Sánchez Oeconomo pour leur aide précieuse dans le cadre de l'élaboration du présent travail.
 
 ### Licence
 
-XML-TEI files and CSV files are made available under a [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/) licence.
+Toutes les données publiées dans les différents dépôts GItHub du projet PictoCatalogs et sur le présent site sont mises à disposition sous licence [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
 
-The materials that were used to create these files are in the public domain and are made available by the Metropolitan Museum of Art under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) licence.
-
-### Cite this repository
+Les documents originaux sur lesquels sont basés ces jeux de données relève du domaine public et sont mis à disposition par le Metropolitan Museum of Art sous une licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
 
 ### Contacts
 
