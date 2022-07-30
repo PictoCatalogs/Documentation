@@ -1,4 +1,4 @@
-# HTR et Layout Analysis
+# HTR and Layout Analysis
 
 La première étape du traitement de notre corpus correspond à la transcription et la segmentation des pages de catalogues.
 
@@ -28,7 +28,7 @@ Dans le cadre de la segmentation d'un document, il est important de définir et 
 * `CustomZone:entry`: pour les entrées de catalogue.&#x20;
 * `CustomZone:entryEnd`: pour les entrées qui se poursuivent sur la page suivante (rares dans notre corpus).&#x20;
 
-`CustomZone` est un type à utiliser pour toute zone autre que celles définies par SegmOnto, elle permet à ce vocabulaire contrôlé de s'adapter à une typologie de document spécifique grâce à l'ajout d'un sous-type librement choisi par l'utilisateur. Dans le cas des catalogues, les sous-types retenus sont `entry` et `entryEnd`. L'usage de `CustomZone:entry` et `CustomZone:entryEnd` pour la segmentation est particulièrement importante dans le cadre de la chaîne de traitement appliquée aux catalogues, ce sont ces zones qui permettront de délimiter et extraire les données concernant les items exposés et leurs exposants.&#x20;
+`CustomZone` est un type à utiliser pour toute zone autre que celles définies par SegmOnto, elle permet à ce vocabulaire contrôlé de s'adapter à une typologie de document spécifique grâce à l'ajout d'un sous-type librement choisi par l'utilisateur. Dans le cas des catalogues, les sous-types retenus sont `entry` et `entryEnd`. L'usage de `CustomZone:entry` et `CustomZone:entryEnd` pour la segmentation est particulièrement important dans le cadre de la chaîne de traitement appliquée aux catalogues, ce sont ces zones qui permettront de délimiter et extraire les données concernant les items exposés et leurs exposants.&#x20;
 
 **Les lignes utilisées pour l'annotation de notre corpus sont les suivantes :**&#x20;
 
@@ -37,7 +37,7 @@ Dans le cadre de la segmentation d'un document, il est important de définir et 
 
 ![](../.gitbook/assets/fondue2.png)
 
-Dans l'exemple ci-dessus, la zone orange est une `NumberingZone`, la zone rose une `MainZone` et les zones bleues des `CustomZone:entry`. Les lignes sont ici toutes des `DefaultLine`.&#x20;
+Dans l'exemple ci-dessus, la zone orange est une `NumberingZone`, la zone rose une `MainZone` et les zones bleues des `CustomZone:entry`. Les lignes de cette page sont toutes des `DefaultLine`.&#x20;
 
 ### Modèles d'entrainement et vérité de terrain.&#x20;
 
