@@ -72,7 +72,7 @@ Pour les **reproductions de photographies** dans les catalogues, nous avons util
 * vue d'artichecture (ville)
 * vue d'intérieur&#x20;
 
-Dans l'exemple ci-dessous, nous avons réaliser des pourcentages par année des photographies représentant un paysage :&#x20;
+Dans l'exemple ci-dessous, nous avons réalisé des pourcentages par année des photographies représentant un paysage :&#x20;
 
 ![Capture d'écran du logiciel Excel](../.gitbook/assets/excel\_paysage.png)
 
