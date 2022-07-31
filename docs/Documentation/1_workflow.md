@@ -10,6 +10,6 @@ Un programme en Python développé par Juliette Janès et grandement amélioré 
 
 Les données contenues dans le fichier CSV sont ensuite nettoyées et enrichies grâce à [OpenRefine](https://openrefine.org), afin de répartir les données dans les colonnes correspondantes mais aussi de géoréférencer l'ensemble des données géographiques disponibles. A partir d'un CSV enrichi, il est alors possible de réaliser des visualisations de différentes natures (cartographies, graphiques, etc.) et ainsi de procéder à l'analyse statistique et géographique les données issues des catalogues.&#x20;
 
-Bien que nous renvoyions systématiquement dans cette documentation aux différents travaux qui composent notre chaîne de traitement, les différents fichiers nécessaires entrant en jeu dans cette dernière ont également été centralisés dans un dépôt GitHub dédié (_**lien à ajouter**_) afin de faciliter leur récupération par toute personne susceptible de les réemployer. &#x20;
+Bien que nous renvoyions systématiquement dans cette documentation aux différents travaux qui composent notre chaîne de traitement, les différents fichiers nécessaires entrant en jeu dans cette dernière ont également été centralisés dans un [dépôt GitHub dédié](https://github.com/PictoCatalogs/Scripts) afin de faciliter leur récupération par toute personne susceptible de les réemployer. &#x20;
 
 Les pages suivantes détailleront davantage chaque étape de cette chaîne de traitement.&#x20;

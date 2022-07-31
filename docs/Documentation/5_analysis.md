@@ -93,8 +93,8 @@ Pour les **publicités** nous avons simplement utilisé des mots-cléfs relatifs
 
 ![Capture d'écran du logiciel Excel](../.gitbook/assets/excel\_pub.png)
 
-L'ensemble des notebooks Python utilisés sont disponibles ici. **(LIEN A AJOUTER)**
+L'ensemble des notebooks Python utilisés sont [disponibles ici](https://github.com/PictoCatalogs/Scripts).
 
-Les fichiers TSV (complet ou par année) contenant les données enrichies issus des catalogues d'expositions du Photo-Club de Paris sont disponibles ici.  **(LIEN A AJOUTER)**
+Les fichiers TSV (complet ou par année) contenant les données enrichies issues des catalogues d'expositions du Photo-Club de Paris sont [disponibles ici](https://github.com/PictoCatalogs/Corpus/tree/main/extended\_tsv).
 
-Le classeur Excel comportant quelques feuilles de calcul réalisées dans le cadre de nos analyses est disponible ici. **(LIEN A AJOUTER)**
+Le classeur Excel comportant quelques feuilles de calcul réalisées dans le cadre de nos analyses est [disponible ici](https://github.com/PictoCatalogs/Corpus/blob/main/extended\_tsv/various\_data.xlsx).&#x20;
