@@ -22,7 +22,7 @@ A partir de ces feuilles de calcul nous avons visualisé ces données grâce à 
 
 #### Cartographies
 
-Par le biais d'un notebook Python (adresse ici), nous avons également procédé à la cartographie de ces données géolocalisées. Nous avons fait le choix d'une cartographie zoomable réalisée grâce à la librairie Python [Folium](http://python-visualization.github.io/folium/modules.html), qui permet de réaliser des cartographie interactives.
+Par le biais d'un notebook Python, nous avons également procédé à la cartographie de ces données géolocalisées. Nous avons fait le choix d'une cartographie zoomable réalisée grâce à la librairie Python [Folium](http://python-visualization.github.io/folium/modules.html), qui permet de réaliser des cartographie interactives.
 
 La cartographie ci-dessous présente les rues parisiennes ayant été géolocalisées. La taille du repère dépend du nombre d'oeuvres exposées. Seules les rues de la ville de Paris ont été géolocalisée de manière exhaustive, car toutes les rues du corpus traité ne disposaient pas de notices Wikidata permettant de récupérer les coordonnées géographiques automatiquement grâce à OpenRefine.&#x20;
 
@@ -96,5 +96,7 @@ Pour les **publicités** nous avons simplement utilisé des mots-cléfs relatifs
 L'ensemble des notebooks Python utilisés sont [disponibles ici](https://github.com/PictoCatalogs/Scripts).
 
 Les fichiers TSV (complet ou par année) contenant les données enrichies issues des catalogues d'expositions du Photo-Club de Paris sont [disponibles ici](https://github.com/PictoCatalogs/Corpus/tree/main/extended\_tsv).
+
+Le fichier TSV exporté depuis Tropy contenant les 76 catalogues d'expositions illustrés indéxés est [disponible ici](https://github.com/PictoCatalogs/Corpus/blob/main/extended\_tsv/catalogues\_tropy.tsv).&#x20;
 
 Le classeur Excel comportant quelques feuilles de calcul réalisées dans le cadre de nos analyses est [disponible ici](https://github.com/PictoCatalogs/Corpus/blob/main/extended\_tsv/various\_data.xlsx).&#x20;
