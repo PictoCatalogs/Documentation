@@ -2,7 +2,7 @@
 
 ### Analyses géographiques
 
-Une des priorités de notre étude était de parvenir à étudier le plus précisement possible la répartition géographique des exposants dans le cadre de ces expositions internationales. Parmi les catalogues du corpus, seuls les catalogues d'exposition du Photo-Club de Paris (1894, 1895, 1896, 1897, 1898, 1902, 1904, 1906) ont été traités grâce à la chaîne de traitement Artl@s, permettant d'extraire les informations relatives aux exposants. 5050 oeuvres ont été extraites de ces catalogues et avec elles, la totalité des pays et des villes d'origine de leur exposant, et près de 55% des adresses des photographes ont pu être associées avec leurs coordonnées géographiques.&#x20;
+Une des priorités de notre étude était de parvenir à étudier le plus précisement possible la répartition géographique des exposants dans le cadre de ces expositions internationales. Parmi les catalogues du corpus, seuls les **catalogues d'exposition du Photo-Club de Paris (1894, 1895, 1896, 1897, 1898, 1902, 1904, 1906)** ont été traités grâce à la chaîne de traitement Artl@s, permettant d'extraire les informations relatives aux exposants. 5050 oeuvres ont été extraites de ces catalogues et avec elles, la totalité des pays et des villes d'origine de leur exposant, et près de 55% des adresses des photographes ont pu être associées avec leurs coordonnées géographiques.&#x20;
 
 #### Analyses quantitatives
 
