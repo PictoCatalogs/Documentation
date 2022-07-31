@@ -6,9 +6,9 @@ Une des priorités de notre étude était de parvenir à étudier le plus préci
 
 #### Analyses quantitatives
 
-Des visualisation des données réalisées grâce à un logiciel tableur type Excel ou Numbers peuvent déjà fournir de très bons résultats du point de vue des analyses quantitatives. Certaines recherches, telles que celle cherchant à croiser différentes facettes, se réalisent particulièrement rapidement au moyen d'OpenRefine et à partir de notre fichier TSV concaténant toutes les données extraites des différents catalogues.
+Des visualisation des données réalisées grâce à un logiciel tableur type Excel ou Numbers peuvent déjà fournir de très bons résultats du point de vue des analyses quantitatives. Certaines recherches, telles que celles croisant différentes facettes, se réalisent particulièrement rapidement au moyen d'OpenRefine et à partir de notre fichier TSV concaténant toutes les données extraites des différents catalogues.
 
-Au moyen d'Excel, nous avons réaliser un comptage par années des pays et des villes d'où provenaient les auteurs des photographies présentées aux expositions du Photo-Club de Paris.
+Au moyen d'Excel, nous avons réalisé un comptage par années des pays et des villes d'où provenaient les auteurs des photographies présentées aux expositions du Photo-Club de Paris.
 
 ![Nombres d'oeuvres exposées selon le pays d'origine des photographes par année - Capture d'écran du logiciel Excel](../.gitbook/assets/excel\_pays.png)
 
@@ -24,7 +24,7 @@ A partir de ces feuilles de calcul nous avons visualisé ces données grâce à 
 
 Par le biais d'un notebook Python, nous avons également procédé à la cartographie de ces données géolocalisées. Nous avons fait le choix d'une cartographie zoomable réalisée grâce à la librairie Python [Folium](http://python-visualization.github.io/folium/modules.html), qui permet de réaliser des cartographie interactives.
 
-La cartographie ci-dessous présente les rues parisiennes ayant été géolocalisées. La taille du repère dépend du nombre d'oeuvres exposées. Seules les rues de la ville de Paris ont été géolocalisée de manière exhaustive, car toutes les rues du corpus traité ne disposaient pas de notices Wikidata permettant de récupérer les coordonnées géographiques automatiquement grâce à OpenRefine.&#x20;
+La cartographie ci-dessous présente les rues parisiennes ayant été géolocalisées. La taille du repère dépend du nombre d'oeuvres exposées. Seules les rues de la ville de Paris ont été géolocalisées de manière exhaustive, car toutes les rues du corpus traité ne disposaient pas de notices Wikidata permettant de récupérer les coordonnées géographiques automatiquement grâce à OpenRefine.&#x20;
 
 ![Capture d’écran de la carte zoomable réalisée pour les adresses des exposants dans les catalogues d’expositions du Photo-Club de Paris, Frédérine Pradier.](../.gitbook/assets/map\_paris.png)
 

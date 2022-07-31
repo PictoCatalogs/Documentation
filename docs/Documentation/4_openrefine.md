@@ -14,8 +14,8 @@ Un des objectifs majeurs de ce travail était de pouvoir réaliser une étude de
 
 ![Extrait du fichier CSV enrichi sur OpenRefine](../.gitbook/assets/openrefine.png)
 
-L'usage d'OpenRefine a largement facilité et accéléré le travail de correction et d'enrichissement en permettant d'automatiser une grande partie des opérations en appliquant des modifications sur un lot important de cellules. Par le biais de son système de facettes, cet outil permet aussi, au delà des corrections, de réaliser une première analyse de la distribution des valeurs dans cet ensemble de données.&#x20;
+L'usage d'OpenRefine a largement facilité et accéléré le travail de correction et d'enrichissement en permettant d'automatiser une grande partie des opérations en appliquant des modifications sur un lot important de cellules. Par le biais de son système de facettes, cet outil permet aussi, au-delà des corrections, de réaliser une première analyse de la distribution des valeurs dans cet ensemble de données.&#x20;
 
-Nous avons également concaténé les tableurs correspondants à chacun des catalogues traités pour obtenir un unique tableur réunissant l'ensemble des données issues des catalogues. Un travail d'homogénéisation a donc été nécessaire (notamment pour l'orthographe des noms) afin de permettre une analyse computationnelle de qualité à partir de ce tableur fusionné.&#x20;
+Nous avons également concaténé les tableurs correspondant à chacun des catalogues traités pour obtenir un unique tableur réunissant l'ensemble des données issues des catalogues. Un travail d'homogénéisation a donc été nécessaire (notamment pour l'orthographe des noms) afin de permettre une analyse computationnelle de qualité à partir de ce tableur fusionné.&#x20;
 
 Les fichiers TSV issus des catalogues, enrichis au moyen d'OpenRefine, ainsi que le fichier TSV des catalogues fusionnés sont disponibles et librement réutilisables (sous licence [CC-BY](https://github.com/PictoCatalogs/Corpus)) sur le [dépôt GitHub](https://github.com/PictoCatalogs/Corpus) du projet PictoCatalogs.

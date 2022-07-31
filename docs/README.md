@@ -1,4 +1,4 @@
-# About PictoCatalogs
+# About the project
 
 ### Projet
 
@@ -6,7 +6,7 @@ Ce projet de recherche est réalisé par Frédérine Pradier, sous la direction 
 
 ### Abstract
 
-L’essor du phénomène amateur marque la fin du XIXe siècle du fait des progrès techniques et industriels du médium photographique, qui se traduisent par une large diffusion de nouveaux produits simplifiés et de publications spécialisées. Le pictorialisme s’élabore au sein du réseau associatif, dans les sociétés photographiques, lieu privilégié de circulation d’idées et d’images, qui deviennent à la fin du XIXe siècle une des structures sociales fondamentales du monde photographique. Dans les clubs et sociétés, de nombreux amateurs se réclament, par distinction, d’une photographie artistique. Les pictorialistes se positionnent ainsi en amateurs éclairés, en opposition à une pratique privée vulgarisée de la photographie mais aussi à la pratique commerciale des photographes professionnels.
+L’essor du phénomène amateur marque la fin du XIXe siècle du fait des progrès techniques et industriels du médium photographique, qui se traduisent par une large diffusion de nouveaux produits simplifiés et de publications spécialisées. Le pictorialisme s’élabore au sein du réseau associatif, dans les sociétés photographiques, lieux privilégiés de circulation d’idées et d’images, qui deviennent à la fin du XIXe siècle une des structures sociales fondamentales du monde photographique. Dans les clubs et sociétés, de nombreux amateurs se réclament, par distinction, d’une photographie artistique. Les pictorialistes se positionnent ainsi en amateurs éclairés, en opposition à une pratique privée vulgarisée de la photographie mais aussi à la pratique commerciale des photographes professionnels.
 
 L'analyse sérielle des catalogues nous permet d'interroger ce moment de l'histoire de l'amateurisme photographique et de son expression artistique dans les milieux pictorialistes d'un point de vue social, culturel et spatial. Par l'extraction, l'enrichissement et l'analyse des données relatives aux exposants, aux œuvres, aux images et aux publicités dans ces catalogues d'exposition, nous souhaitons faire la lumière sur les conditions et les structures sociales dans lesquelles les amateurs ont pu devenir des artistes.
 
@@ -16,7 +16,7 @@ La méthodologie mise en œuvre pour étudier ces catalogues consiste d’une pa
 
 Ce site est developppé par Frédérine Pradier (Université de Genève). Ce travail a grandement bénéficié des chaînes de traitement et des jeux de données réalisés par Juliette Janès, Esteban Sánchez Oeconomo et Caroline Corbières pour le projet [Artl@s](https://artlas.huma-num.fr).
 
-Esteban Sánchez Oeconomo, Juliette Janès, Simon Gabay, Béatrice Joyeux-Prunel, _extractionCatalogs: Python data extractor for exhibition catalogs_, 2022, Paris: ENS Paris, IMAGO / Geneva: Université de Genève, [https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs)
+Esteban Sánchez Oeconomo, Juliette Janès, Simon Gabay, Béatrice Joyeux-Prunel, _extractionCatalogs: Python data extractor for exhibition catalogs_, 2022, Paris: ENS Paris, IMAGO / Geneva: Université de Genève, [https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs).
 
 Juliette Janès, _Du catalogue papier au numérique : Une chaîne de traitement ouverte pour l’extraction d’informations issues de documents structurés_, mémoire de master « Technologies numériques appliquées à l’histoire »,dir. Thibault Clérice et Béatrice Joyeux-Prunel, École nationale des chartes, 2021, [https://github.com/Juliettejns/Memoire\_TNAH](https://github.com/Juliettejns/Memoire\_TNAH).
 
@@ -30,7 +30,7 @@ Nous remercions chaleureusement Simon Gabay, Béatrice Joyeux-Prunel et Esteban 
 
 Toutes les données publiées dans les différents dépôts GItHub du projet PictoCatalogs et sur le présent site sont mises à disposition sous licence [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
 
-Les documents originaux sur lesquels sont basés ces jeux de données relève du domaine public et sont mis à disposition par le Metropolitan Museum of Art sous une licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
+Les documents originaux sur lesquels sont basés ces jeux de données relèvent du domaine public et sont mis à disposition par le Metropolitan Museum of Art sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
 
 ### Contacts
 
