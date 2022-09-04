@@ -1,6 +1,6 @@
 # About the project
 
-### Projet
+### Project
 
 Ce projet de recherche est réalisé par Frédérine Pradier, sous la direction de Béatrice Joyeux-Prunel, dans le cadre du Certificat de spécialisation en humanités numériques de l'Université de Genève. Il s'attache à étudier l'amateurisme photographique au tournant du XXe siècle à travers des catalogues d'expositions pictorialistes internationales et au moyen de méthodes quantitatives et computationnelles. Notre corpus est composé de catalogues d'expositions pictorialistes (1891-1914) conservés par la bibliothèque du Metropolitan Museum of Art (Joyce F. Menschel Photography Library), [disponibles ici](https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections/rare-materials-in-the-met-libraries/pictorialist-photography-exhibition-catalogs-1891-1914).
 
