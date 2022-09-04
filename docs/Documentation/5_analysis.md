@@ -6,7 +6,7 @@ Une des priorités de notre étude était de parvenir à étudier le plus préci
 
 #### Analyses quantitatives
 
-Des visualisation des données réalisées grâce à un logiciel tableur type Excel ou Numbers peuvent déjà fournir de très bons résultats du point de vue des analyses quantitatives. Certaines recherches, telles que celles croisant différentes facettes, se réalisent particulièrement rapidement au moyen d'OpenRefine et à partir de notre fichier TSV concaténant toutes les données extraites des différents catalogues.
+Des visualisations des données réalisées grâce à un logiciel tableur type Excel ou Numbers peuvent déjà fournir de très bons résultats du point de vue des analyses quantitatives. Certaines recherches, telles que celles croisant différentes facettes, se réalisent particulièrement rapidement au moyen d'OpenRefine et à partir de notre fichier TSV concaténant toutes les données extraites des différents catalogues.
 
 Au moyen d'Excel, nous avons réalisé un comptage par années des pays et des villes d'où provenaient les auteurs des photographies présentées aux expositions du Photo-Club de Paris.
 
@@ -36,7 +36,7 @@ Différentes manières s'offrent là encore à nous pour étudier l'iconographie
 
 #### Nuage de mots
 
-D'une part, à partir des données textuelles extraites des catalogues d'exposition du Photo-Club de Paris, nous avons pu constater la fréquence de certains mots dans les titres des oeuvres exposées se référant au genre et au sujet de l'image. Grâce à un notebook Python, nous avons réalisé une un nuage de mots pour les termes les plus récurrents dans les titres.&#x20;
+D'une part, à partir des données textuelles extraites des catalogues d'exposition du Photo-Club de Paris, nous avons pu constater la fréquence de certains mots dans les titres des oeuvres exposées se référant au genre et au sujet de l'image. Grâce à un notebook Python, nous avons réalisé un nuage de mots pour les termes les plus récurrents dans les titres.&#x20;
 
 ![Nuages de mots basé sur l'ensemble des titres des expositions (1894-1906), Frédérine Pradier.](../.gitbook/assets/wordcloud.png)
 

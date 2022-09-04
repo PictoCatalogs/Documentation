@@ -1,4 +1,4 @@
-# HTR et Layout Analysis
+# HTR and Layout Analysis
 
 La première étape du traitement de notre corpus correspond à la transcription et la segmentation des pages de catalogues.
 
@@ -41,7 +41,7 @@ Dans l'exemple ci-dessus, la zone orange est une `NumberingZone`, la zone rose u
 
 ### Modèles d'entrainement et vérité de terrain.&#x20;
 
-Juliette Janès a également mis à disposition des [modèles](https://github.com/IMAGO-Catalogues-Jjanes/cataloguesSegmentationOCR/tree/eae51756eb24a6d0f431b9946389f4651446284d/4\_Models) entrainés à partir des catalogues qu'elle a traités au cours de son travail. Le plus performant sur notre corpus était le modèle de transcription "Gruyère". Les données à partir desquelles ont été entrainés ces différents modèles n'étant pas natives d'eScriptorium, car préparées à l'origine grâce à Transkribus, les résultats obtenus lors d'un usage du modèle sur eScriptorium demande encore énormément de corrections. De nouveaux modèles ont été entraînés avec des pages de notre corpus grâce à FoNDUE, mais n'ayant été entrainés que sur un nombre limité de pages toutes semblables, ils ne sont vraisemblablement performants que pour les catalogues de notre corpus.&#x20;
+Juliette Janès a également mis à disposition des [modèles](https://github.com/IMAGO-Catalogues-Jjanes/cataloguesSegmentationOCR/tree/eae51756eb24a6d0f431b9946389f4651446284d/4\_Models) entrainés à partir des catalogues qu'elle a traités au cours de son travail. Le plus performant sur notre corpus était le modèle de transcription "Gruyère". Les données à partir desquelles ont été entrainés ces différents modèles n'étant pas natives d'eScriptorium, car préparées à l'origine grâce à Transkribus, les résultats obtenus lors d'un usage du modèle sur eScriptorium demandent encore énormément de corrections. De nouveaux modèles ont été entraînés avec des pages de notre corpus grâce à FoNDUE, mais n'ayant été entrainés que sur un nombre limité de pages toutes semblables, ils ne sont vraisemblablement performants que pour les catalogues de notre corpus.&#x20;
 
 Un entraînement sur FoNDUE ne permet de sélectionner que les pages d'un seul document comme vérité de terrain. Pour procéder à un entraînement sur un nombre plus important de documents présentant une plus grande variété, il faut utiliser directement un outil d'HTR tel que [Kraken](https://kraken.re/master/index.html) (logiciel OpenSource sur lequel s'appuient eScriptorium et FoNDUE). Cependant, un ordinateur personnel n'offre pas la puissance nécessaire pour réaliser efficacement un tel entraînement, en particulier concernant des modèles de segmentation.&#x20;
 
