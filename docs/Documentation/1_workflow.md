@@ -1,6 +1,6 @@
 # Workflow
 
-![](<../.gitbook/assets/Untitled Diagram.drawio-2.png>)
+<figure><img src="../.gitbook/assets/Untitled Diagram-3.png" alt=""><figcaption></figcaption></figure>
 
 Cette chaîne de traitement a été développée dans le cadre du projet [Artl@s](https://artlas.huma-num.fr/fr/), en particulier pour [BasArt](https://artlas.huma-num.fr/map/#/), sa base numérique et géoréférencée de catalogues d'expositions. Ce workflow est le fruit du travail de [Caroline Corbières](https://github.com/carolinecorbieres/ArtlasCatalogues) et de [Juliette Janès](https://github.com/Juliettejns/Memoire\_TNAH), qui ont apporté des améliorations successives dans le but d'extraire les données de catalogues d'exposition de façon semi-automatisée ([plus d'informations ici](https://hal.archives-ouvertes.fr/hal-03331838/document)).&#x20;
 
